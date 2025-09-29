@@ -1,1 +1,2 @@
-https://drive.google.com/file/d/1X7zMjHqW05oXs4A56mCcdAYAKNy7iIa_/view?usp=sharing
+To access the proposal, please send an email to m.esmaeilzadeh17@gmail.com.
+
