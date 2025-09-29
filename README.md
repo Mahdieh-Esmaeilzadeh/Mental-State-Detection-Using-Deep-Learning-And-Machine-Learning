@@ -1,8 +1,13 @@
 # Mental State Detection from Speech
 
-**Author:** Mahdieh Esmaeilzadeh  
-**University:** Alzahra University, Iran  
-**Supervisor:** Dr. Zahra Rezvani  
+**Author:** Mahdieh Esmaeilzadeh
+m.esmaeilzadeh17@gmail.com
+
+**University:** Alzahra University, Iran
+https://alzahra.ac.ir
+
+**Supervisor:** Dr. Zahra Rezvani
+rezvanizahra@gmail.com
 
 ---
 
