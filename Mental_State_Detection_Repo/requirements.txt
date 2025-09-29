@@ -1,9 +1,4 @@
 
----
-
-## 📂 `requirements.txt`
-(based on your notebook dependencies:contentReference[oaicite:0]{index=0})
-```txt
 librosa
 scikit-learn
 numpy
