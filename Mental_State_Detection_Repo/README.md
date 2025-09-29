@@ -33,9 +33,11 @@ Copy code
 ## Installation / Usage
 Install required packages:
 
-```bash
+```
 pip install -r requirements.txt
+```
 You can then run notebooks in notebooks/ to train and evaluate models.
+
 
 Dataset
 The dataset used in this project is not publicly available due to privacy and research restrictions.
@@ -54,8 +56,4 @@ Any use must credit the authors and Alzahra University, and clearly indicate any
 Commercial use or redistribution for profit is prohibited.
 
 The project is provided "as is" without any warranties. Users are responsible for any consequences arising from its use.
-
-markdown
-Copy code
-
 ---
